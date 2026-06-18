@@ -1,0 +1,6 @@
+{
+  "project": {
+    "name": "Zite E2E Fixture",
+    "basePublicIdentifier": "flow_e2e_fixture"
+  }
+}

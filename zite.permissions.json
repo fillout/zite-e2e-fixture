@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "roles": [
+    {
+      "id": "builtin:all-team-members",
+      "name": "All team members",
+      "description": "All internal users"
+    }
+  ],
+  "tables": {}
+}

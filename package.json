@@ -1,0 +1,11 @@
+{
+  "name": "zite-e2e-fixture",
+  "private": true,
+  "workspaces": [
+    "apps/demo",
+    "packages/*"
+  ],
+  "dependencies": {
+    "zitejs": "0.9.55"
+  }
+}
